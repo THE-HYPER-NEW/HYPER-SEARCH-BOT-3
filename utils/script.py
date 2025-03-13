@@ -23,11 +23,6 @@ Get connected channels list with - /connections</b>"""
 
     ABOUT = """Developed By @THEHYPER_ACX 
 
-✯ Mʏ Nᴀᴍᴇ:  {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/THEHYPER_ACX>𝗧ʜᴇＨʏᴘᴇʀ</a>
-✯ ACX Nᴇᴛᴡᴏʀᴋ: <a href='https://t.me/ACX_NETWORK'>ACX Nᴇᴛᴡᴏʀᴋ</a>
-✯ Gʀᴏᴜᴘ: <a href='https://t.me/ACX_DISCUSSION>Dɪsᴄᴜssɪᴏɴ</a>
-✯ REPO: : <a href='https://files.catbox.moe/s8gmhg.jpg'>Click Here</a>"""
 
     STATS = """My Status 💫
 
