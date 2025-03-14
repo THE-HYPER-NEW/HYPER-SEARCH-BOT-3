@@ -1,7 +1,7 @@
 class script(object):
     START = """**Hello {} 🥀**
    
-I am **Find Post Bot**.I am best Channel Link Search Bot! 
+I am **ACX Post Finder Bot**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
 
     HELP = """<b>To Use me In A Group
